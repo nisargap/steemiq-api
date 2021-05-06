@@ -9,7 +9,7 @@ dateparser==0.6.0
 diff-match-patch==20121119
 ecdsa==0.13
 Flask==0.12.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 funcy==1.7.5
 gevent==1.2.2
 graphenelib==0.5.2
