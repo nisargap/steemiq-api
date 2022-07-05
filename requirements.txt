@@ -43,7 +43,7 @@ steem==0.18.8
 textstat==0.3.1
 toolz==0.8.2
 tzlocal==1.4
-ujson==1.35
+ujson==5.4.0
 urllib3==1.21.1
 voluptuous==0.10.5
 w3lib==1.17.0
